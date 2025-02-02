@@ -1,0 +1,2 @@
+The Employee Onboarding Portal is a web-based system designed to streamline the employee onboarding process. It allows employees to register their details, receive login credentials via email, and access their profile after logging in.
+The system also provides an admin panel for managing employee registrations, sending notifications, and generating reports. Additionally, a viewer role is included to allow users to contact support for queries.
