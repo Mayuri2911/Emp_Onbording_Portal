@@ -1,0 +1,512 @@
+1)Program to print the number from 1 to N using for loop
+
+import java.util.*;
+
+class Programs {
+    public static void main(String args[]) {
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number:");
+        int n = sc.nextInt();
+
+        for (int i = 1; i <= n; i++) {
+            System.out.println(i);
+        }
+    }
+}
+
+2)Write a java program to print all natural numbers in reverse (from n to 1). 
+import java.util.*;
+
+class Programs {
+    public static void main(String args[]) {
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number:");
+        int n = sc.nextInt();
+
+        for (int i = n; i >= 1; i--) {
+            System.out.println(i);
+        }
+    }
+}
+
+3)Write a java program to print all alphabets from a to z. 
+
+class Programs {
+    public static void main(String[] args) {
+
+        char c;
+
+        for (c = 'a'; c <= 'z'; ++c)
+            System.out.print(c + " ");
+    }
+}
+
+4)Write a java  program to print all even numbers between 1 to 100. –
+class Programs {
+    public static void main(String args[]) {
+        for (int i = 1; i <= 100; i++) {
+            if (i % 2 == 0) {
+                System.out.println(i);
+            }
+        }
+    }
+}
+
+5)Write a java program to print all odd number between 1 to 100.
+class Programs {
+    public static void main(String args[]) {
+        for (int i = 1; i <= 100; i++) {
+            if (i % 2 != 0) {
+                System.out.println(i);
+            }
+        }
+    }
+}
+
+6)Write a java program to find sum of all natural numbers between 1 to n.
+import java.util.Scanner;
+
+public class Programs {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int num; // Declare the number
+        System.out.println("Enter the number");
+        num = sc.nextInt(); // Initialize the number
+
+        int sum = 0; // Variable to calculate the sum
+        for (int i = 1; i <= num; i++) {
+            sum = sum + i;
+        }
+        // prints the sum
+        System.out.println("Sum of Natural Numbers = " + sum);
+    }
+}
+
+7)Write a java program to find sum of all even numbers between 1 to n.
+import java.util.Scanner;
+
+public class Programs {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int num; // Declare the number
+        System.out.println("Enter the number");
+        num = sc.nextInt(); // Initialize the number
+
+        int sum = 0; // Variable to calculate the sum
+        for (int i = 2; i <= num; i += 2) {
+            sum += i;
+        }
+        // prints the sum
+        System.out.println("Sum of even Numbers = " + sum);
+    }
+}
+
+
+8)Write a java program to find sum of all odd numbers between 1 to n.
+import java.util.Scanner;
+
+public class Programs {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int num;
+        System.out.println("Enter the number");
+        num = sc.nextInt(); /
+
+        int sum = 0;
+        for (int i = 1; i <= num; i++) {
+            if (i % 2 != 0) {
+                sum = sum + i;
+            }
+
+        }
+       
+        System.out.println("Sum of odd Numbers = " + sum);
+    }
+}
+
+9)Write a java program to print multiplication table of any number.
+import java.util.*;
+
+class Programs {
+    public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter number");
+        int n = sc.nextInt();
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(n * i);
+        }
+    }
+}
+
+10)Write a java program to count number of digits in a number.
+class Programs {
+    public static void main(String args[]) {
+        int n = 1234;
+        int count = 0;
+        for (; n != 0; n /= 10, ++count) {
+
+        }
+        System.out.println(count);
+    }
+}
+11)Write a java program to find first and last digit of a number.
+class Programs {
+    public static void main(String args[]) {
+        int n = 12345;
+        int firstdigit = 0;
+        int lastdigit = 0;
+
+        lastdigit = n % 10;
+        System.out.println("lastdigit   " + lastdigit);
+
+        while(n != 0 ) {
+            firstdigit = n % 10;
+            n /= 10;
+
+        }
+        System.out.println("firstdigit  " + firstdigit);
+
+
+    }
+}
+
+12)Write a java program to find sum of first and last digit of a number.
+
+class Programs {
+    public static void main(String args[]) {
+        int n = 12345;
+        int firstdigit = 0;
+        int lastdigit = 0;
+        int sum = 0;
+
+        lastdigit = n % 10;
+        System.out.println("lastdigit   " + lastdigit);
+
+        while (n != 0) {
+            firstdigit = n % 10;
+            n /= 10;
+            sum = firstdigit + lastdigit;
+
+        }
+        System.out.println("firstdigit  " + firstdigit);
+        System.out.println(" sum of firstdigit and lastdigit   " + sum);
+
+    }
+}
+
+13)Write a java program to swap first and last digits of a number.
+public class Programs {
+    public static void main(String[] args) {
+        int lastDigit = 0, firstDigit = 0;
+        int number = 123456;
+
+        lastDigit = number % 10;
+        int power = (int) Math.log10(number);
+
+        firstDigit = (int) (number / Math.pow(10, power));
+
+        int a = firstDigit * (int) Math.pow(10, power);
+        int b = number % a;
+        number = b / 10;
+
+        number = (lastDigit * (int) Math.pow(10, power)) + number * 10 + firstDigit;
+        System.out.println("The result" + number);
+    }
+}
+
+14)Write a java program to calculate sum of digits of a number.
+public class Programs {
+    public static void main(String[] args) {
+        int n, sum;
+        n = 1234567;
+        for (sum = 0; n != 0; n /= 10) {
+            sum += n % 10;
+
+        }
+        System.out.println(sum);
+
+    }
+}
+
+15)Write a java program to enter a number and print its reverse.
+public class Programs {
+    public static void main(String args[]) {
+        int n = 1234, reverse = 0;
+        for (; n != 0; n = n / 10) {
+            int remainder = n % 10;
+            reverse = reverse * 10 + remainder;
+        }
+        System.out.println(reverse);
+
+    }
+}
+16)Write a java program to check whether a number is palindrome or not.
+
+a)class Programs {
+    public static void main(String args[]) {
+        int r, sum = 0, temp;
+        int n = 123;
+        temp = n;
+        while (n > 0) {
+            r = n % 10;
+            sum = sum * 10 + r;
+            n = n / 10;
+
+        }
+        if (temp == sum)
+            System.out.println("palindrome");
+        else
+            System.out.println(" not palindrome");
+
+    }
+}
+
+b) import java.util.*;
+
+class Programs {
+    public static void main(String args[]) {
+        String original, reverse = ""; // Objects of String class
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter a string to check if it is a palindrome");
+        original = in.nextLine();
+        int length = original.length();
+        for (int i = length - 1; i >= 0; i--)
+            reverse = reverse + original.charAt(i);
+        if (original.equals(reverse))
+            System.out.println("Entered string is a palindrome.");
+        else
+            System.out.println("Entered string isn't a palindrome.");
+    }
+}
+
+17)Write a  java program to find frequency of each digit in a given integer.
+
+import java.util.*;
+
+class Programs {
+    public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        int num, i, count, digit, temp;
+        System.out.println("enter number");
+        num = sc.nextInt();
+        System.out.println("frequency");
+        for (i = 0; i <= 9; i++) {
+            count = 0;
+            temp = num;
+            while (temp > 0)
+             {
+                digit = temp % 10;
+                if (digit == i)
+                 {
+                    count++;
+
+                }
+                temp = temp / 10;
+
+            }
+            if (count > 0) {
+                System.out.println(i + " \t " + count);
+            }
+        }
+    }
+}
+
+18)Java Program to Print the ASCII values
+import java.util.*;
+
+class Programs {
+    public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("enter the value");
+        char ch = sc.next().charAt(0);
+        int value = ch;
+        System.out.println("char is" + value);
+    }
+}
+
+19)Write a java program to find power of a number using for loop.
+i)import java.util.*;
+
+class Programs {
+
+    static int power(int base, int exponent) {
+        int power = 1;
+        for (int i = 1; i <= exponent; i++)
+            power = power * base;
+        return power;
+    }
+
+    public static void main(String args[]) {
+        int base, exponent;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("enter base");
+        base = sc.nextInt();
+        System.out.println("enter exponent");
+        exponent = sc.nextInt();
+        int pow = power(base, exponent);
+        System.out.println(base + "to the power" + exponent + "is:" + pow);
+    }
+}
+ii)Using Math.pow() Method
+Using Math.pow() Method
+
+import java.util.*;
+
+class Programs {
+
+    public static void main(String args[]) {
+        int a, b;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("enter base");
+        a = sc.nextInt();
+        System.out.println("enter exponent");
+        b = sc.nextInt();
+        double power = Math.pow(a, b);
+        System.out.println(a + "to the power" + b + "is:" + power);
+
+    }
+}
+
+20)Write a java program to find all factors of a number.
+class Programs {
+    public static void main(String args[]) {
+        int n = 60;
+        System.out.println("factor of" + n);
+        for (int i = 1; i <= n; ++i) {
+            if (n % i == 0) {
+                System.out.print(i + " ");
+            }
+        }
+    }
+}
+21)Factors of Negative Number
+class Programs {
+    public static void main(String args[]) {
+        int n = -60;
+        System.out.println("factor of" + n);
+        for (int i = n; i <= Math.abs(n); ++i) {
+            if (i == 0) {
+                continue;
+            } else {
+                if (n % i == 0) {
+                    System.out.print(i + " ");
+                }
+            }
+        }
+    }
+}
+
+22)Factorial  Java Program using loop in java
+class Programs {
+    public static void main(String args[]) {
+        int n = 5;
+        int fact = 1;
+        for (int i = 1; i <= n; i++) {
+            fact = fact * i;
+
+        }
+        System.out.println("  factorial number is " + n + "  is  " + fact);
+    }
+}
+23)Java Program to Find GCD of two Numbers
+class Programs {
+    public static void main(String args[]) {
+        int n1 = 81, n2 = 153;
+        int gcd = 1;
+        for (int i = 1; i <= n1 && i <= n2; ++i) {
+            if (n1 % i == 0 && n2 % i == 0)
+                gcd = i;
+        }
+        System.out.println(gcd);
+    }
+}
+24)Java Program to Find LCM of two Numbers
+class Programs {
+    public static void main(String args[]) {
+        int n1 = 72, n2 = 120, lcm;
+        lcm = (n1 > n2) ? n1 : n2;
+        while (true) {
+            if (lcm % n1 == 0 && lcm % n2 == 0) {
+                System.out.printf("The LCM of %d and %d is %d.", n1, n2, lcm);
+                break;
+            }
+            ++lcm;
+        }
+
+    }
+}
+25)Java Program to Check Whether a Number is Prime or Not
+class Programs {
+    public static void main(String args[]) {
+        int num = 20;
+        boolean flag = false;
+        for (int i = 2; i <= num / 2; ++i) {
+            if (num % i == 0) {
+                flag = true;
+                break;
+
+            }
+        }
+        if (!flag)
+            System.out.println(num + "prime number");
+        else
+            System.out.println(num + " not prime number");
+    }
+}
+26)Write a java program to print all Prime numbers between 1 to n.
+import java.util.Scanner;
+
+public class Programs {
+    public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
+        System.out.print("Enter the first number : ");
+        int start = s.nextInt();
+        System.out.print("Enter the second number : ");
+        int end = s.nextInt();
+        System.out.println("List of prime numbers between " + start + " and " + end);
+        for (int i = start; i <= end; i++) {
+            if (isPrime(i)) {
+                System.out.println(i);
+            }
+        }
+    }
+
+    public static boolean isPrime(int n) {
+        if (n <= 1) {
+            return false;
+        }
+        for (int i = 2; i <= Math.sqrt(n); i++) {
+            if (n % i == 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+27)Write a java program to find sum of all prime numbers between 1 to n.
+public class Programs {
+    public static void main(String args[]) {
+        int count, sum = 0;
+        int n = 10;
+
+        for (int number = 1; number <= n; number++) {
+            count = 0;
+            for (int i = 2; i <= number / 2; i++) {
+
+                if (number % i == 0) {
+
+                    count++;
+                    break;
+                }
+            }
+            if (count == 0 && number != 1) {
+
+                sum = sum + number;
+            }
+        }
+
+        System.out.println("The Sum of Prime Numbers from 1 to 10 is: " + sum);
+    }
+}
+

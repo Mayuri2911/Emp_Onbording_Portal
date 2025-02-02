@@ -1,0 +1,73 @@
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\HRMS _Employee_Onboarding_Portal.dll.config
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\HRMS _Employee_Onboarding_Portal.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\HRMS _Employee_Onboarding_Portal.pdb
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\csc.exe
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\csc.exe.config
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\csc.rsp
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\csi.exe
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\csi.exe.config
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\csi.rsp
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.AppContext.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Console.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.IO.Compression.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Net.Http.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.ValueTuple.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\vbc.exe
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\vbc.exe.config
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\vbc.rsp
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\VBCSCompiler.exe
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\Antlr3.Runtime.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\Newtonsoft.Json.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\System.Web.Optimization.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\WebGrease.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\System.Web.Optimization.xml
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\Newtonsoft.Json.xml
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\Antlr3.Runtime.pdb
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\obj\Release\HRMS _Employee_Onboarding_Portal.csproj.AssemblyReference.cache
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\obj\Release\HRMS _Employee_Onboarding_Portal.csproj.CoreCompileInputs.cache
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\obj\Release\HRMS _Em.4DB627A8.Up2Date
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\obj\Release\HRMS _Employee_Onboarding_Portal.dll
+C:\Users\mayuri\Downloads\HRMS\HRMS\HRMS _Employee_Onboarding_Portal\HRMS _Employee_Onboarding_Portal\obj\Release\HRMS _Employee_Onboarding_Portal.pdb

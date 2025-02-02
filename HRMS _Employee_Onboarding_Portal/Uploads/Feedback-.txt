@@ -1,0 +1,153 @@
+Feedback:-
+TicketDetails:-
+
+Model:-
+  public class feedBackDetailsRequest
+  {
+      public int id { get; set; }
+      public int ticketId { get; set; }
+
+      public string feedback { get; set;}
+
+      public string createdBy { get; set; }
+
+      public string isActiveId { get; set; }
+
+  }
+  public class feedbackResponse
+  {
+      public Boolean isSuccess { get; set; }
+      public string message { get; set; }
+      private List<feedbackData> _feedbackdata;
+      public List<feedbackData> feedbackData
+      {
+          get { return _feedbackdata; }
+          set { _feedbackdata = value; }
+      }
+  }
+  public class feedbackData
+  {
+      public int id { get; set; }
+      public int ticketId { get; set; }
+
+      public string feedback { get; set; }
+      public string createdBy { get; set; }
+      public string isActiveId { get; set; }
+  }
+
+Repository:-
+ public async Task<feedbackResponse> FeedbackDetailsAsync(feedBackDetailsRequest request, feedbackResponse response ,string type)
+ {
+
+     try
+     {
+         await _con.OpenAsync();
+         using (SqlCommand cmd = new SqlCommand("proc_ticket_details", _con))
+         {
+             cmd.CommandType = CommandType.StoredProcedure;
+             cmd.Parameters.AddWithValue("@type", type);
+             cmd.Parameters.AddWithValue("@id", request.id);
+             cmd.Parameters.AddWithValue("@ticketId", request.ticketId);
+             cmd.Parameters.AddWithValue("@createdBy", request.createdBy);
+             cmd.Parameters.AddWithValue("@feedback", request.feedback);
+             cmd.Parameters.AddWithValue("@isActiveId", request.isActiveId);
+             using (SqlDataReader sdr = await cmd.ExecuteReaderAsync())
+             {
+                 if (await sdr.ReadAsync())
+                 {
+                     response.isSuccess = Convert.ToBoolean(sdr["isSuccess"].ToString());
+                     response.message = sdr["message"].ToString();
+                     response.feedbackData = new List<feedbackData>();
+                 }
+             }
+         }
+         await _con.CloseAsync();
+     }
+     catch (Exception ex)
+     {
+         response.isSuccess = false;
+         response.message = ex.Message.ToString();
+         ErrorLog errorLog = new ErrorLog();
+         errorLog.logLevel = "Error";
+         errorLog.errorCode = "ER10001";
+         errorLog.clientId = "";
+         errorLog.message = ex.Message.ToString();
+         _common.InsertErrorLog(errorLog);
+     }
+     return response;
+ }
+
+service:-
+
+   public async Task<feedbackResponse> FeedbackDetailsAsync(feedBackDetailsRequest feedbackData, feedbackResponse response, string type)
+   {
+       try
+       {
+           await _ticketdetailsrepository.FeedbackDetailsAsync(feedbackData, response, type);
+           return response;
+       }
+       catch (Exception ex)
+       {
+           response.isSuccess = false;
+           response.message = ex.Message.ToString();
+           response.feedbackData = new List<feedbackData>();
+           ErrorLog errorLog = new ErrorLog();
+           errorLog.logLevel = "Error";
+           errorLog.errorCode = "ER10001";
+           errorLog.clientId = "";
+           errorLog.message = ex.Message.ToString();
+           _common.InsertErrorLog(errorLog);
+       }
+       return response;
+   }
+
+Controller:-
+
+  [HttpPost]
+  [Route("postFeedbackDetails")]
+  public async Task<IActionResult> postFeedbackDetails(feedBackDetailsRequest feedbackData)
+  {
+      feedbackResponse response = new feedbackResponse();
+      try
+      {
+          await _ticketDetailsService.FeedbackDetailsAsync(feedbackData, response, "savefeedback");
+          return Ok(response);
+      }
+      catch (Exception ex)
+      {
+          response.isSuccess = false;
+          response.message = ex.Message.ToString();
+          ErrorLog errorLog = new ErrorLog();
+          errorLog.logLevel = "Error";
+          errorLog.errorCode = "ER10001";
+          errorLog.clientId = "";
+          errorLog.message = ex.Message.ToString();
+          _common.InsertErrorLog(errorLog);
+      }
+      return Ok(response);
+  }
+
+  [HttpPut]
+  [Route("putFeedbackDetails/{id}")]
+  public async Task<IActionResult> putFeedbackDetails(feedBackDetailsRequest request, int id)
+  {
+      feedbackResponse response = new feedbackResponse();
+      try
+      {
+          request.id = id;
+          await _ticketDetailsService.FeedbackDetailsAsync(request, response, "updateFeedbackData");
+          return Ok(response);
+      }
+      catch (Exception ex)
+      {
+          response.isSuccess = false;
+          response.message = ex.Message.ToString();
+          ErrorLog errorLog = new ErrorLog();
+          errorLog.logLevel = "Error";
+          errorLog.errorCode = "ER10001";
+          errorLog.clientId = "";
+          errorLog.message = ex.Message.ToString();
+          _common.InsertErrorLog(errorLog);
+      }
+      return Ok(response);
+  }

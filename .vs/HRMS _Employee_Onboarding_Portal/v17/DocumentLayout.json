@@ -1,0 +1,797 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HRMS _Employee_Onboarding_Portal||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|c:\\users\\mayuri\\downloads\\hrms\\hrms\\hrms _employee_onboarding_portal\\hrms _employee_onboarding_portal\\viewswitcher.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\viewswitcher.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|c:\\users\\mayuri\\downloads\\hrms\\hrms\\hrms _employee_onboarding_portal\\hrms _employee_onboarding_portal\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|c:\\users\\mayuri\\downloads\\hrms\\hrms\\hrms _employee_onboarding_portal\\hrms _employee_onboarding_portal\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\userprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\userprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\uploaddocuments.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\uploaddocuments.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\profileuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\profileuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\uploaddocuments.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\uploaddocuments.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\userprofile.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\userprofile.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\profileuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\profileuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\empreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\empreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\updateform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\updateform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\updateform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\updateform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\updateform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\updateform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\empreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\empreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\about.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\about.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\dashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\dashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\contact.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\contact.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Neha\\AppData\\Local\\Temp\\.vsdbgsrc\\42a82ee932929cb34c2e3387279039d927f1e73a5d5cc5a9b4a7e3d00494cf67\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\profileuser.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\profileuser.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Mail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMS _Employee_Onboarding_Portal\\Mail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6346FA5-ECC0-4EA8-B7B6-D98509ED6FEF}|Solution Items{A6346FA5-ECC0-4EA8-B7B6-D98509ED6FEF}|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\DataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6346FA5-ECC0-4EA8-B7B6-D98509ED6FEF}|Solution Items{A6346FA5-ECC0-4EA8-B7B6-D98509ED6FEF}|solutionrelative:DataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\register.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\register.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\empreport.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\empreport.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Mail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMS _Employee_Onboarding_Portal\\Mail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\hrms _employee_onboarding_portal\\signup.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|solutionrelative:hrms _employee_onboarding_portal\\signup.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F115DDC-F18B-4078-AD39-8670A4B1FCCE}|HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj|c:\\users\\mayuri\\downloads\\hrms\\hrms\\hrms _employee_onboarding_portal\\hrms _employee_onboarding_portal\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewSwitcher.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\ViewSwitcher.ascx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\ViewSwitcher.ascx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\ViewSwitcher.ascx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\ViewSwitcher.ascx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:34:59.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\ViewSwitcher.ascx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\ViewSwitcher.ascx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\ViewSwitcher.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-02-02T18:34:54.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HRMS _Employee_Onboarding_Portal",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-03T15:16:07.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProfile.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UserProfile.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\UserProfile.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UserProfile.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\UserProfile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:21.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Web.config",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Web.config",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Web.config",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Web.config",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-24T14:13:21.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UserProfile.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\UserProfile.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UserProfile.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\UserProfile.aspx.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:21.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Dashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Dashboard.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Dashboard.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:32:04.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UploadDocuments.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UploadDocuments.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\UploadDocuments.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UploadDocuments.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\UploadDocuments.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:21.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Web.Debug.config",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Web.Debug.config",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-24T14:13:21.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UploadDocuments.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UploadDocuments.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\UploadDocuments.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UploadDocuments.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\UploadDocuments.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:21.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfileUser.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\ProfileUser.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\ProfileUser.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\ProfileUser.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\ProfileUser.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:20.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Home.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Home.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Home.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:21.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserProfile.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UserProfile.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\UserProfile.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UserProfile.aspx.designer.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\UserProfile.aspx.designer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:30:46.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Contact.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Contact.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:31:55.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Dashboard.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:21.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Register.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Register.aspx.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwDQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:21.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Login.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Login.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:21.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Register.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Register.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Register.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:21.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfileUser.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\ProfileUser.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\ProfileUser.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\ProfileUser.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\ProfileUser.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:21.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Contact.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Contact.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Contact.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:21.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\About.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\About.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\About.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:21.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Login.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Login.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Login.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:20.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\SignUp.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\SignUp.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\SignUp.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:21.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\css\\StyleSheet.css",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\css\\StyleSheet.css",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-24T14:13:21.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmpReport.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\EmpReport.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\EmpReport.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\EmpReport.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\EmpReport.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:20.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Login.aspx.designer.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Login.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:31:31.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateForm.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UpdateForm.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\UpdateForm.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UpdateForm.aspx.designer.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\UpdateForm.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:09:10.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Global.asax.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Global.asax.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:08:47.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateForm.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UpdateForm.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\UpdateForm.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UpdateForm.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\UpdateForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:20.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UpdateForm.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\UpdateForm.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\UpdateForm.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\UpdateForm.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:20.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\About.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\About.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\About.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\About.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:47:24.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmpReport.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\EmpReport.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\EmpReport.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\EmpReport.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\EmpReport.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:20.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "About.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\About.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\About.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\About.aspx.designer.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\About.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:47:27.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Home.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Home.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:21.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Contact.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Contact.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Contact.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Contact.aspx.designer.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Contact.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:31:59.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Dashboard.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Dashboard.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Dashboard.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Dashboard.aspx.designer.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Dashboard.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:32:06.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Neha\\AppData\\Local\\Temp\\.vsdbgsrc\\42a82ee932929cb34c2e3387279039d927f1e73a5d5cc5a9b4a7e3d00494cf67\\Login.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Neha\\AppData\\Local\\Temp\\.vsdbgsrc\\42a82ee932929cb34c2e3387279039d927f1e73a5d5cc5a9b4a7e3d00494cf67\\Login.cs",
+              "ToolTip": "C:\\Users\\Neha\\AppData\\Local\\Temp\\.vsdbgsrc\\42a82ee932929cb34c2e3387279039d927f1e73a5d5cc5a9b4a7e3d00494cf67\\Login.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Neha\\AppData\\Local\\Temp\\.vsdbgsrc\\42a82ee932929cb34c2e3387279039d927f1e73a5d5cc5a9b4a7e3d00494cf67\\Login.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:34:20.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProfileUser.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\ProfileUser.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\ProfileUser.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\ProfileUser.aspx.designer.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\ProfileUser.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwPIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:21.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Mail.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Mail.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Mail.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Mail.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Mail.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:21.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Mail.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Mail.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Mail.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Mail.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Mail.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:21.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\DataAccess.cs",
+              "RelativeToolTip": "DataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:21.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Register.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Register.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Register.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Register.aspx.designer.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Register.aspx.designer.cs",
+              "ViewState": "AQIAABgBAAAAAAAAAAAlwCUBAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:21.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EmpReport.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\EmpReport.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\EmpReport.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\EmpReport.aspx.designer.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\EmpReport.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:21.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SignUp.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\SignUp.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\SignUp.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\SignUp.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\SignUp.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-09-24T14:13:21.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Default.aspx.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Default.aspx.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-09-24T14:13:21.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Web.Release.config",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Web.Release.config",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Web.Release.config",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Web.Release.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-24T14:13:21.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Default.aspx",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\Default.aspx",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\Default.aspx",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T14:13:21.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SignUp.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\SignUp.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HRMS _Employee_Onboarding_Portal\\SignUp.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mayuri\\Downloads\\HRMS\\HRMS\\HRMS _Employee_Onboarding_Portal\\HRMS _Employee_Onboarding_Portal\\SignUp.aspx.designer.cs",
+              "RelativeToolTip": "HRMS _Employee_Onboarding_Portal\\SignUp.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAawI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:13:21.709Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+1)ABM
+2)ALepo
+Questions and topics
+Distinguish between JRE JVM JDK?
+What is interface? Explain me the concept of OOPs? Explain interface with the help of code? Reverse a string code? How to access objects of collections? Size of boolean? How to debug in mysql? Tell me about your project? How to change IP address ? Distinguish between all the access specifiers(private, public, protected, default) Final method can be override or not? What is operator overloading? Difference between c++ and java? Which inheritance is possible in c++ but not in java?
+*************
+ Most of the questions are on core java!
+From basic to advance core java!
+
+3)Webian
+1)Apptitude 2)Technical 3)HR
+Java basics and oops
+4)Viral(internship)
+5)Catena
+1)Aptitude test 2)Technical 3)HR
+oops
+project
+database
+6)Maxgen Technologies(internship)
+1)HR 2)Technical
+
+
+
+Round :
+
+1)Aptitude
+2)Technical
+3)HR
+
+4)(OPTIONAL)Machine test
+5)(OPTIONAL)Group Descsion

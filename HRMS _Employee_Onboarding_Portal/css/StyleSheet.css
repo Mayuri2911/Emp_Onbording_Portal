@@ -1,0 +1,23 @@
+﻿
+
+body {
+    background-image: url('/img/bg3.jpg'); /* Sets the background image */
+    background-size: cover; /* Scales the image to cover the entire element */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image within the element */
+    background-attachment: fixed; /* Makes the background image fixed in place when scrolling */
+
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    background-color: #ffffff;
+    color: #000000;
+    border-top: 1px solid #ddd;
+    z-index: 1000;
+}
